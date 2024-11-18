@@ -14,13 +14,13 @@ JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
 
 [compat]
-ArgCheck = "2.0"
-Compat = "2.1.0, 3, 4"
-HTTP = "0.8, 0.9, 1"
+ArgCheck = ">=2.0"
+Compat = ">=2.1.0"
+HTTP = ">=0.8"
 HttpCommon = "0.5"
-JSON = "0.21"
-Tables = "1"
-julia = "1.6"
+JSON = ">=0.21"
+Tables = ">=1"
+julia = ">=1.6"
 
 [extras]
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
